@@ -26,7 +26,7 @@
 -Alterou-se cor das bolas <br>
 -Título <br>
 -Borda <br>
-![image](https://user-images.githubusercontent.com/95586355/174812486-2fc77c38-2091-4746-a203-c6013d6d1b2b.png)
-![image](https://user-images.githubusercontent.com/95586355/174812521-6dc2c3d6-6a42-446d-ab19-5dea527a6a52.png)
-![image](https://user-images.githubusercontent.com/95586355/174812557-401e4cfc-cb10-4d65-81c9-66eda9af19ef.png)
-![image](https://user-images.githubusercontent.com/95586355/174812596-c6a680d4-5ef3-41b5-b77b-57592ba0d8eb.png)
+<br>![image](https://user-images.githubusercontent.com/95586355/174813825-70852a8b-4ec9-4d32-b5e2-131269211eaf.png)
+<br>![image](https://user-images.githubusercontent.com/95586355/174812521-6dc2c3d6-6a42-446d-ab19-5dea527a6a52.png)
+<br>![image](https://user-images.githubusercontent.com/95586355/174812557-401e4cfc-cb10-4d65-81c9-66eda9af19ef.png)
+<br>![image](https://user-images.githubusercontent.com/95586355/174812596-c6a680d4-5ef3-41b5-b77b-57592ba0d8eb.png)
