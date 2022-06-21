@@ -10,20 +10,29 @@ html, body {
   body {
     overflow: hidden;
     height: inherit;
+    background-color: #000;
+    font-family: "Poppins", sans-serif;
+    background: rgb(236,9,9);
+    background: linear-gradient(90deg, rgba(236,9,9,1) 0%, rgba(0,0,0,1) 50%, rgba(236,9,9,1) 100%);
   }
   
   h1 {
     font-size: 2rem;
     letter-spacing: -1px;
-    position: absolute;
-    margin: 0;
-    top: -4px;
-    right: 5px;
+    text-align: center;
   
-    color: transparent;
-    text-shadow: 0 0 4px white;
+    color: #fff;
+    text-shadow: 0 0 0.9em white;
+  }
+  main {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
   }
 
   .canvas1{
-      background-color: white;
+    box-shadow: 0 0 0.9em #fff;
+    border: 2px solid #fff;
   }
